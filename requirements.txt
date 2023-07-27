@@ -1,0 +1,8 @@
+numpy=1.24.1
+pandas==1.5.2
+seaborn==0.12.2
+matplotlib==3.6.2
+mne==1.2.3
+autoreject==0.4.1
+mat73==0.59
+statsmodels=0.13.5
